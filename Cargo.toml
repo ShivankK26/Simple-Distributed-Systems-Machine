@@ -1,0 +1,10 @@
+[package]
+name = "simple-distributed-systems-machine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = "1.0.210"
+serde_json = "1.0.132"
+tokio = "1.40.0"
+uuid = "1.11.0"
